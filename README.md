@@ -6,11 +6,11 @@ Port 12101 | Part of [ToolOracle](https://tooloracle.io) Blockchain Oracle Suite
 
 ## What it does
 
-Mempool analysis, fee estimation, whale tracking, lightning network stats, halving countdown, ordinals/BRC-20, UTXO analysis.
+Mempool analysis, fee estimation, whale tracking, lightning network, halving countdown, ordinals/BRC-20, UTXO analysis.
 
 ## 10 Tools
 
-All tools return structured JSON with evidence-grade data. Free to use, no API key required for basic access.
+All tools return structured JSON with evidence-grade data.
 
 ## Quick Start
 

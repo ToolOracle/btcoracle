@@ -1,0 +1,11 @@
+{
+  "name": "btcOracle",
+  "description": "Bitcoin intelligence for AI agents — mempool, fees, UTXO tracking, hash rate, Lightning Network via MCP",
+  "repository": "https://github.com/ToolOracle/btcoracle",
+  "endpoint": "https://tooloracle.io/btc/mcp/",
+  "health": "https://tooloracle.io/btc/health",
+  "tools": 10,
+  "license": "MIT",
+  "author": "FeedOracle Technologies",
+  "tags": ["bitcoin", "mcp", "ai-agent", "tooloracle"]
+}

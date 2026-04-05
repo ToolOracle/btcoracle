@@ -1,0 +1,11 @@
+{
+  "schema_version": "v2.0.0",
+  "name": "io.tooloracle/btcoracle",
+  "description": "btcOracle \u2014 Bitcoin intelligence: mempool, fees, whale tracking, mining stats. 9 tools.",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://tooloracle.io/btc/mcp/"
+    }
+  ]
+}

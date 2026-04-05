@@ -1,0 +1,5 @@
+name: btcOracle
+description: Bitcoin intelligence — 9 tools
+endpoint: https://tooloracle.io/btc/mcp/
+transport: streamable-http
+license: MIT
